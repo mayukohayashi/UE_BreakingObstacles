@@ -1,15 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "5.2",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e08bab2621a788bd7fd24fe0c6a2db00286c175792a9b2ac16cbfa46b4c6283
+size 213
